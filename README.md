@@ -57,17 +57,10 @@
 
 ## Talk to me about these.....
 
-- **_💻 Languages:_** Python, C++,SQL, GO, JavaScript, Java
-- **_💻 Cloud Platforms:_** AWS (Lambda, DynamoDB, RDS, S3, Amplify, CloudWatch, API Gateway, CloudFormation), Azure
-- **_💻 Tools and Frameworks:_** React, Redux, Node.js, Jenkins, Git, Docker, Spring Boot, Material-UI, CI/CD Pipelines
-- **_💻 Database Systems:_** DynamoDB, MySQL, PostgreSQL
-- **_💻 Technologies:_** RESTful APIs, GraphQL, Terraform, Kubernetes, Microservices, Serverless Architecture
-- **_💻 Additional Expertise:_** Data Structures and Algorithms, Object-Oriented Programming, Agile Methodologies, System Design, Patterns, Responsive Design
-
-## I worked with them.....
-
-- **💼 Vamsi Technosys** _, Software Engineer_
-- **💼 JV Technologies** _, Full-Stack Developer_
-- **💼 Tribe India.Org** _, Software Engineer_
-- **💼 Zero Deficiency Pvt.Ltd.** _, Full-Stack Developer_
+- **_💻 Generative AI:_** Large Language Models, Azure Open AI GPT, Amazon Bedrock, LLaMA, Mistral AI and Anthropic’s Claude
+- **_💻 MACHINE LEARNING:_** Machine Learning Techniques such as Data Preprocessing (Data Cleaning), Regression models, Classification, Clustering, Association Rule learning (Apriori and Eclat), Reinforcement Learning (UCB and Thompsons Sampling), Text Mining, Data Extraction, Predictive Modeling, Statistical Modeling, Dimensionality Reduction (PCA and SVD) and Recommender Systems (Collaborative Filtering).
+- **_💻 DEEP LEARNING:_** Keras, Tensorflow, PyTorch, ANN, CNN, RNN-LSTM, OpenCV, SSD, Time Series Analysis and Forecast, SOMs, Generative Adversarial Networks (GANs), Encoders (Auto Encoders, Stacked Auto Encoders, Variational Auto Encoders), Recommender Systems (Collaborative filtering, RBM, Auto Encoders)
+- **_💻 NLP:_** Large Language Models (LLM), Generative AI, Bedrock, GPT, BERT, T5, Chatbots, Conversational AI
+- **_💻 PROGRAMMING LANGUAGES:_** Python
+- **_💻 IDE:_** Anaconda – Spyder, Jupyter Notebook, Amazon Sagemaker, Azure Databricks
 
