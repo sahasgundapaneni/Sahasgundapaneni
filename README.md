@@ -1,7 +1,7 @@
 ### Hi there! You happened to stumble upon the profile of.....
 
 # SAHAS GUNDAPANENI
-#### Computer Science professional with experience in software engineering, full-stack development, and cloud technologies. Proficient in leveraging AWS tools and modern programming languages to build scalable, efficient, and user-friendly solutions. Here's a quick look at my journey.
+#### Computer Science professional with experience in Generative AI and software development(Machine Learning). Here's a quick look at my journey.
 
 
 [📖 Master of Science in Computer Science](https://www.cise.ufl.edu/academics/graduate/masters-program/)
