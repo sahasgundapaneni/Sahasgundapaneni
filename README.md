@@ -8,7 +8,7 @@
 <br>
 [🎓 Bachelor of Technology in Computer Science & Engineering](https://www.bennett.edu.in/programs/btech-cse/)
 <br>
-📧 E-mail : [sahasgundapaneni@gmail.com](mailto:sahasgundapaneni@gmail.com)
+📧 E-mail : [sahasgundapaneni@gmail.com](mailto:gundapanenisahas@gmail.com)
 <br>
 🔎 LinkedIn  : [https://www.linkedin.com/in/sahas-gundapaneni-70993218b/](https://www.linkedin.com/in/sahas-gundapaneni-70993218b/)
 
