@@ -53,14 +53,3 @@
 - Configured pytest for automated testing. Utilized f2py for integrating high-performance computations.
 - Strengthened audio processing, real-time animation, and testing automation. Improved package management & environment setup. Gained hands-on experience in event-driven programming & optimization.
 
-
-
-## Talk to me about these.....
-
-- **_💻 Generative AI:_** Large Language Models, Azure Open AI GPT, Amazon Bedrock, LLaMA, Mistral AI and Anthropic’s Claude
-- **_💻 MACHINE LEARNING:_** Machine Learning Techniques such as Data Preprocessing (Data Cleaning), Regression models, Classification, Clustering, Association Rule learning (Apriori and Eclat), Reinforcement Learning (UCB and Thompsons Sampling), Text Mining, Data Extraction, Predictive Modeling, Statistical Modeling, Dimensionality Reduction (PCA and SVD) and Recommender Systems (Collaborative Filtering).
-- **_💻 DEEP LEARNING:_** Keras, Tensorflow, PyTorch, ANN, CNN, RNN-LSTM, OpenCV, SSD, Time Series Analysis and Forecast, SOMs, Generative Adversarial Networks (GANs), Encoders (Auto Encoders, Stacked Auto Encoders, Variational Auto Encoders), Recommender Systems (Collaborative filtering, RBM, Auto Encoders)
-- **_💻 NLP:_** Large Language Models (LLM), Generative AI, Bedrock, GPT, BERT, T5, Chatbots, Conversational AI
-- **_💻 PROGRAMMING LANGUAGES:_** Python
-- **_💻 IDE:_** Anaconda – Spyder, Jupyter Notebook, Amazon Sagemaker, Azure Databricks
-
