@@ -10,7 +10,7 @@
 <br>
 📧 E-mail : [sahasgundapaneni@gmail.com](mailto:gundapanenisahas@gmail.com)
 <br>
-🔎 LinkedIn  : [https://www.linkedin.com/in/sahas-gundapaneni-70993218b/](https://www.linkedin.com/in/sahas-gundapaneni-70993218b/)
+🔎 LinkedIn  : [https://www.linkedin.com/in/sahas-gundapaneni-895029370/](https://www.linkedin.com/in/sahas-gundapaneni-895029370/)
 
 ## My Projects!!
 
